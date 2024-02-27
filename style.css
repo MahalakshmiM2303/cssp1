@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding:0 ;
+}
+nav{
+    background-color: black;
+    color: white;
+    margin: 30px;
+    padding: 20px;
+
+}
+ul,h1,li{
+    display: inline;
+}
+ul{
+    padding: 20px;
+    padding-left: 65%;
+}
+li{
+    padding: 12px;
+}
+li:hover{
+    color: yellow;
+    cursor: pointer;
+}
+input{
+    width: 60%;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline;
+    padding: 8px;
+    margin-left: 18%;
+
+}
+.p11{
+    border-radius: 2px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    width: 220px;
+    margin: 20px;
+
+}
+img{
+    width: 220px;
+    height: 220px;
+}
+.p22{
+    border-radius: 2px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    width: 220px;
+    margin: 20px;
+}
+.p33{
+    border-radius: 2px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    width: 220px;
+    margin: 20px;
+}
+.prd{
+    margin: 50px;
+    text-align: center;
+}
+.abt{
+    margin: 15px;
+}
+h2{
+    text-align: center;
+    padding: 10px;
+}
+.contact{
+    background-color: black;
+    color: white;
+    
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+h4{
+    text-align: center;
+    
+}
+.p11:hover{
+    background-color: black;
+    color: white;
+}
+.p22:hover{
+    background-color: black;
+    color: white;
+}
+.p33:hover{
+    background-color: black;
+    color: white;
+}
+
